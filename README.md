@@ -1,4 +1,9 @@
 # Presence-Absence-Matrix
+
+
+[![DOI](https://zenodo.org/badge/86084328.svg)](https://zenodo.org/badge/latestdoi/86084328)
+
+
 This script creates a presence/absence matrix from two files--one containing all possible values (simple return-delimited list) and one containing a fasta-ish format that looks like this (values are tab-delimited):
 
     >dataset1-name  
