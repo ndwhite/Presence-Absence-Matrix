@@ -1,5 +1,5 @@
 # Presence-Absence-Matrix
-This script creates a presence/absence matrix from two files--one containing all possible values and one containing a fasta-ish format that looks like this (values are tab-delimited):
+This script creates a presence/absence matrix from two files--one containing all possible values (simple return-delimited list) and one containing a fasta-ish format that looks like this (values are tab-delimited):
 
     >dataset1-name  
     value1 value2 value3 value5  
