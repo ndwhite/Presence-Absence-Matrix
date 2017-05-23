@@ -21,5 +21,4 @@ Output will be of format (also tab-delimited):
     dataset3  1 0 1 0 1 1  
 
 
-Execute with command "Presence_absence_matrix.pl List_of_all_values.txt List_of_data.txt". Cite this script using the DOI above.
-
+Execute with command "Presence_absence_matrix.pl List_of_all_values.txt List_of_data.txt".
