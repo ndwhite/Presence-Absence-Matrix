@@ -1,5 +1,5 @@
 # Presence-Absence-Matrix
-
+This project is licensed under the terms of the MIT license.
 
 [![DOI](https://zenodo.org/badge/86084328.svg)](https://zenodo.org/badge/latestdoi/86084328)
 
